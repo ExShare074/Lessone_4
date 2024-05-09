@@ -1,7 +1,6 @@
-a = 7 #создание переменной
-b = 5
-c = a + b
-print(c)
+for i in range(10):
+    print("слово")
+a, b = 10, 20
 
 if c > 10:
     print("c > 10")
